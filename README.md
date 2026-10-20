@@ -53,4 +53,4 @@ npm run build    # production build
 
 ---
 
-Website made by [@VoltaNYC](https://nyc.voltanpo.org).
+Made by [Novus](https://www.novusnyc.org/).
